@@ -1,6 +1,6 @@
 using System;
 
-namespace AuroraScreenSaver.Rendering
+namespace NovaScreenSaver.Rendering
 {
     internal static class PerlinNoise
     {
