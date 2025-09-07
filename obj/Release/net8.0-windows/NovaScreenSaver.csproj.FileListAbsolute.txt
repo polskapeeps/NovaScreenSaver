@@ -1,0 +1,7 @@
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\RendererView.baml
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\RendererView.g.cs
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\UI\SettingsWindow.g.cs
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\App.g.cs
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\NovaScreenSaver_MarkupCompile.cache
+C:\Users\habad\Documents\Codeing\My Projects\src\NovaSaver\NovaScreenSaver\obj\Release\net8.0-windows\NovaScreenSaver_MarkupCompile.lref

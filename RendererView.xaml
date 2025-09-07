@@ -1,0 +1,9 @@
+<UserControl x:Class="NovaScreenSaver.RendererView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+    <Image x:Name="Image" Stretch="Fill" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="HighQuality"/>
+    <TextBlock x:Name="ClockText" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+               Margin="24" FontSize="24" Foreground="#AAFFFFFF" Visibility="Collapsed"/>
+  </Grid>
+</UserControl>
