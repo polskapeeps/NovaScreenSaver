@@ -1,8 +1,8 @@
 using System.Windows;
-using AuroraScreenSaver.Rendering;
-using AuroraScreenSaver.Settings;
+using NovaScreenSaver.Rendering;
+using NovaScreenSaver.Settings;
 
-namespace AuroraScreenSaver.UI
+namespace NovaScreenSaver.UI
 {
     public partial class SettingsWindow : Window
     {

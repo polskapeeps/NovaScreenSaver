@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using AuroraScreenSaver.Settings;
+using NovaScreenSaver.Settings;
 
-namespace AuroraScreenSaver.Rendering
+namespace NovaScreenSaver.Rendering
 {
     internal sealed class OrbsRenderer : IRenderer
     {

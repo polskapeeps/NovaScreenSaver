@@ -1,8 +1,8 @@
-<Window x:Class="AuroraScreenSaver.UI.SettingsWindow"
+<Window x:Class="NovaScreenSaver.UI.SettingsWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:local="clr-namespace:AuroraScreenSaver.UI"
-        Title="Aurora Screensaver Settings" Height="520" Width="720"
+        xmlns:local="clr-namespace:NovaScreenSaver.UI"
+        Title="Nova Screensaver Settings" Height="520" Width="720"
         WindowStartupLocation="CenterScreen">
   <Grid Margin="16">
     <Grid.ColumnDefinitions>
